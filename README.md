@@ -4,11 +4,11 @@ Presentación para las III jornadas de acercamiento al software libre, organizad
 
 ## Esquema general
 
-### Breve historia de la computación
-### El software "__prelibre__" (Años 60 y 70)
-### RMS, GNU, la FSF, y las cuatro libertades fundamentales
-### Quiz de software libre
-### Linus y Linux
+ - Breve historia de la computación
+ - El software "__prelibre__" (Años 60 y 70)
+ - RMS, GNU, la FSF, y las cuatro libertades fundamentales
+ - Quiz de software libre
+ - Linus y Linux
 
 ## Presentación
  - La presentación puede encontrarse [aquí](Presentacion.odp).
