@@ -17,4 +17,4 @@ Presentación para las III jornadas de acercamiento al software libre, organizad
  - La grabación sonora de todo el evento está [aquí](charla.ogg).
 
 ## Agradecimientos
- - [FSF](https://fsf.org/es/blogs/richard-stallman-y-tedx/), por algunas diapositivas.
+ - [Victorhck](https://github.com/victorhck), por algunas diapositivas.
